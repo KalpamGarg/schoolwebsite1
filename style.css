@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	background-color: fuchsia;
+}
+
+#marqueestyle{
+    background: blueviolet;
+}
+#principal1{
+    color: darkblue;
+}
+#principal2{
+    color: darkgoldenrod;
+}
